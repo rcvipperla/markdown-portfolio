@@ -1,0 +1,3 @@
+- [Github](https://github.com/rcvipperla)
+- [Linkedin](https://www.linkedin.com/in/ravichander-vipperla-3827522/?originalSubdomain=uk)
+- [Google Scholar](https://scholar.google.com/citations?user=NYG-shkAAAAJ&hl=en)
