@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+- [Github](https://github.com/rcvipperla)
+- [Linkedin](https://www.linkedin.com/in/ravichander-vipperla-3827522/?originalSubdomain=uk)
+- [Google Scholar](https://scholar.google.com/citations?user=NYG-shkAAAAJ&hl=en)
